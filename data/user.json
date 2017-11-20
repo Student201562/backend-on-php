@@ -1,0 +1,26 @@
+[
+  {
+    "id":"1",
+    "name":"JbrCat",
+    "country":"Russia",
+    "rating":"150"
+  },
+  {
+    "id":"2",
+    "name":"Navras96",
+    "country":"Pamir",
+    "rating":"145"
+  },
+  {
+    "id":"3",
+    "name":"Student201562",
+    "country":"Russia",
+    "rating":"161"
+  },
+  {
+    "id":"4",
+    "name":"Pazha",
+    "country":"USA",
+    "rating":"135"
+  }
+]

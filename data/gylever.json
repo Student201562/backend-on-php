@@ -1,0 +1,20 @@
+[
+  {
+    "id":"1",
+    "name":"Boll",
+    "power":"50",
+    "speed":"6"
+  },
+  {
+    "id":"2",
+    "name":"Wall",
+    "power":"100",
+    "speed":"2"
+  },
+  {
+    "id":"3",
+    "name":"Enemy",
+    "power":"67",
+    "speed":"7"
+  }
+]
